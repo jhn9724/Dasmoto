@@ -1,1 +1,3 @@
 # Dasmoto
+
+permalink: /index.html
