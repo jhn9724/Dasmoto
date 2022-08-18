@@ -1,6 +1,1 @@
 # Dasmoto
-
-
-
-
-permalink: /index.html
